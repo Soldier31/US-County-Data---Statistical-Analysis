@@ -17,6 +17,10 @@ Inputs: All the variables
 
 According to the Criterion for the Number of Clusters graph, the graph meets 0 at <8 or >4 and at 200 Number of Clusters. This implies that while using all the Factors to determine Clusters either 4-8 clusters or 200 cluster groups can be formed which can have similarities among them. More number of clusters implies greater variance (R-square) is explained. However, at some point of time adding new clusters will decrease the efficiency of clustering and more number of clusters is not an efficient model. 
 
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op1.png)
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op2.png)
+
 Cluster Observations Test using K-means:
 
 Since from above test we can observe that number of clusters can be taken between 4 and 8, I performed trial and error to fix the value at 4 clusters to perform K-means for the Cluster Observation test to observe the results.
@@ -30,6 +34,10 @@ The clusters are divided into 4 clusters:
 - Cluster 2: Frequency of 626
 - Cluster 3: Frequency of 899
 - Cluster 4: Frequency of 176
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op3.png)
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op4.png)
 
 The variance explained by the model is 32%.
 
