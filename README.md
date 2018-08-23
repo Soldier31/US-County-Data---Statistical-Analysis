@@ -9,6 +9,8 @@ The CountyData dataset contains county level data of all the states with data re
 1.	It was observed that there are multiple blank fields in the dataset. 
 2.	For better analysis the row element, i.e. county-level null fields have been filled with the average value of their corresponding state level data of those columns.
 
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/data.PNG)
+
 **Cluster Analysis** by definition is the grouping of elements into groups or clusters which are alike. Below are some of the cluster solutions prepared for this data set:
 
 ## Test-1: Clustering Using all the Factors
