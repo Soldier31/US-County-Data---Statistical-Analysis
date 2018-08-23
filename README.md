@@ -58,6 +58,13 @@ Inference:
 -	Cluster 3 with 207 counties represent the Hispanic dominant counties with their mean value of 0.46
 -	Cluster 4 with 15 counties represent the Asian dominant counties with mean of 0.52. 
 
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/cl1.png)
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/cl2.png)
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/cl3.png)
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/cl4.png)
 
 Related Inference:
 -	Cluster 1 with general US Population has an average Income HH of $34K, average Highschool graduate percentage of 71.6%, Birthrate of 124
@@ -71,6 +78,7 @@ The African American dominant counties have the lowest Household income and lowe
 
 The below Tableau representation shows counties clustered based on race:
 
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/cl5.png)
 
 Quality of the K means cluster model:
 	 
