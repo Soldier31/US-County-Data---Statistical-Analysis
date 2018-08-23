@@ -53,7 +53,7 @@ Cluster observations (**Average linkage**) technique was used to find out if tha
 
 ![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op6.png)
 
-![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op7.png)
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op7.PNG)
 
 Inference : 
 
