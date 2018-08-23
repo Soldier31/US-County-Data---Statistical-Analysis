@@ -106,4 +106,5 @@ On performing K means clustering analysis, the counties were clustered based on 
 
 ![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/cl8.png)
 
+The below Tableau representation shows counties clustered based on population change:
 ![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/cl9.png)
