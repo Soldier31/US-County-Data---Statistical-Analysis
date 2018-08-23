@@ -49,11 +49,25 @@ For this analysis, I wanted to check if all the counties can be grouped accordin
 
 Cluster observations (**Average linkage**) technique was used to find out if that counties have significant clustering among them on the basis of race. 
 
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op5.png)
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op6.png)
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op7.png)
+
 Inference : 
 
 From the Criterion of number of clusters graph, a dip at 0 is observed on the number of clusters = 4-6 and at 25. More number of clusters does not mean the counties are efficiently clustered. Observing the R-square value for the number of cluster 4 is 0.353 and for number of clusters 6 is 0.506. There is however no much significant difference. 
 
 For better analysis I decided to make the number of Clusters = 4 since the data given includes population of African-American, Hispanics and Asians; we can try to get 4 clusters which can show grouping of General US Population Counties (White Dominant), African-American Dominant Counties, Hispanic Dominant Counties and Asian Dominant Counties. I have used **K means** technique to come up with the solution. 
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op8.png)
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op9.png)
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op10.png)
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/op11.png)
 
 Test and Inputs:
 K-Means Clustering with number of Clusters = 4
