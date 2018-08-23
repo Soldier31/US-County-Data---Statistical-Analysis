@@ -93,9 +93,17 @@ From the cluster observation (average linkage method), the criterion for the num
 Therefore, I would like to perform the K means test keeping 3 as number of clusters to determine if the clustering can be done on the basis of population change and income HH. 
 
 On performing K means clustering analysis, the counties were clustered based on population change and income. 
+
 -	Cluster 1 with a frequency of 906 observation has more negative population change and low household income. This implies that the population are leaving the counties because of low income to areas with better income prospects. 
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/cl6.png)
 
 -	Cluster 2 with a frequency of 583 observations has positive population change and high household income. This implies that these are counties with good job opportunities and high household income thereby inviting more people to come in. 
 
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/cl7.png)
+
 - Cluster 3 has frequency of 1651 observations are neutral counties with no significant population change and have median household income. 
 
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/cl8.png)
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/cl9.png)
