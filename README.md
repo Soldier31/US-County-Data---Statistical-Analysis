@@ -110,9 +110,17 @@ Quality of the K means cluster model:
  
  For this analysis, I wanted to check if all the counties can be grouped according to the factor of Population Change and if Counties can be forced to form clusters. And, from the clustered results, I would like to do some inference if that clustering based on population change is affecting other parameters of our dataset. 
 
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/ot1.png)
+
 From the cluster observation (average linkage method), the criterion for the number of clusters graph meets zero at number of clusters value <3. From the cluster history table, the R-square value for number of cluster 3 is 0.60 which implies that around 60% of variance is explained for number of clusters 3. 
 
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/ot2.png)
+
 Therefore, I would like to perform the K means test keeping 3 as number of clusters to determine if the clustering can be done on the basis of population change and income HH. 
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/ot3.png)
+
+![alt_text](https://github.com/mullapudirajaprashanth/US-County-Data---Statistical-Analysis/blob/master/Images/ot4.png)
 
 On performing K means clustering analysis, the counties were clustered based on population change and income. 
 
